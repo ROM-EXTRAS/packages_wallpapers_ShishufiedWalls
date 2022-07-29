@@ -19,8 +19,8 @@ include $(CLEAR_VARS)
 
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
 
-ifeq ($(BOOTLEGGERS_NOTCHED),true)
-LOCAL_RESOURCE_DIR += $(LOCAL_PATH)/res_long
+ifeq ($(BOOTLEGGERS_IS_LARGE_DEVICE),true)
+LOCAL_RESOURCE_DIR += $(LOCAL_PATH)/res_large
 else
 LOCAL_RESOURCE_DIR += $(LOCAL_PATH)/res_main
 endif
