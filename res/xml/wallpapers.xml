@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The LineageOS Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+     <category id="cat_btlg_community" title="@string/category_community_walls" featured="btlg_circles">
+
+        <static-wallpaper
+            id="btlg_aesthetic"
+            src="@drawable/btlg_aesthetic"
+            title="Aesthetic"
+            subtitle1="Snowan" />
+
+        <static-wallpaper
+            id="btlg_beach"
+            src="@drawable/btlg_beach"
+            title="Beach"
+            subtitle1="gabriel" />
+
+        <static-wallpaper
+            id="btlg_circles"
+            src="@drawable/btlg_circles"
+            title="Circles"
+            subtitle1="s a y m o n" />
+
+        <static-wallpaper
+            id="btlg_dynamic"
+            src="@drawable/btlg_dynamic"
+            title="Dynamic"
+            subtitle1="MΔTЭO" />
+
+        <static-wallpaper
+            id="btlg_greenpattern"
+            src="@drawable/btlg_greenpattern"
+            title="Green Pattern"
+            subtitle1="𝙉𝙀𝙍𝙊" />
+
+        <static-wallpaper
+            id="btlg_leaf"
+            src="@drawable/btlg_leaf"
+            title="Leaf"
+            subtitle1="s a y m o n" />
+
+        <static-wallpaper
+            id="btlg_lightning"
+            src="@drawable/btlg_lightning"
+            title="Lightning"
+            subtitle1="Nathanael" />
+
+        <static-wallpaper
+            id="btlg_lines"
+            src="@drawable/btlg_lines"
+            title="Lines"
+            subtitle1="Assu" />
+
+        <static-wallpaper
+            id="btlg_monoink"
+            src="@drawable/btlg_monoink"
+            title="Mono Ink"
+            subtitle1="Snowan" />
+
+        <static-wallpaper
+            id="btlg_palmtree"
+            src="@drawable/btlg_palmtree"
+            title="Palmtree"
+            subtitle1="Snowan" />
+
+        <static-wallpaper
+            id="btlg_rgbmess"
+            src="@drawable/btlg_rgbmess"
+            title="RGB Mess"
+            subtitle1="Melvin" />
+
+        <static-wallpaper
+            id="btlg_samurai_vh"
+            src="@drawable/btlg_samurai_vh"
+            title="Samurai"
+            subtitle1="vh, s a y m o n" />
+
+        <static-wallpaper
+            id="btlg_squareneon"
+            src="@drawable/btlg_squareneon"
+            title="Square Neon"
+            subtitle1="h e n r i q u e" />
+
+        <static-wallpaper
+            id="btlg_sunsetino"
+            src="@drawable/btlg_sunsetino"
+            title="Sunset Lane"
+            subtitle1="s a y m o n" />
+
+     </category>
+
+     <category id="cat_btlg_releases" title="@string/category_releases_walls" featured="btlg_dawn">
+
+        <static-wallpaper
+            id="btlg_proto"
+            src="@drawable/btlg_v05"
+            title="Bootleggers 0.5 Release Wallpaper"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_dawn"
+            src="@drawable/btlg_v10"
+            title="Dawn (1.0 Release Wallpaper)"
+            subtitle1="fxckingdeathwish" />
+
+        <static-wallpaper
+            id="btlg_wots"
+            src="@drawable/btlg_v22"
+            title="Waiting on the sunset (ElDainosor edit) (Bootleggers v2.2 Wallpaper)"
+            subtitle1="fxckingdeathwish" />
+
+        <static-wallpaper
+            id="btlg_movsun"
+            src="@drawable/btlg_v23"
+            title="Moving Sunsets (Bootleggers v2.3 Wallpaper)"
+            subtitle1="fxckingdeathwish" />
+
+        <static-wallpaper
+            id="btlg_island"
+            src="@drawable/btlg_v30"
+            title="Behind the island (3.0 Release Wallpaper)"
+            subtitle1="@string/author_not_found" />
+
+        <static-wallpaper
+            id="btlg_natgrad"
+            src="@drawable/btlg_v35"
+            title="Natural Gradient (3.5 Release Wallpaper)"
+            subtitle1="@string/author_not_found" />
+
+        <static-wallpaper
+            id="btlg_fullcombo"
+            src="@drawable/btlg_v40"
+            title="Fury City (4.0 Release Wallpaper)"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_csun"
+            src="@drawable/btlg_v41"
+            title="cloudy sunset (4.1 Release Wallpaper)"
+            subtitle1="fxckingdeathwish" />
+
+        <static-wallpaper
+            id="btlg_smth"
+            src="@drawable/btlg_v42"
+            title="something (4.2 Release Wallpaper)"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_sunrisebanana"
+            src="@drawable/btlg_v43"
+            title="a sunrise with banana thoughts (4.3 Release Wallpaper)"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_unfunny"
+            src="@drawable/btlg_v47"
+            title="Hahaha funny volte joke (4.7 Release Wallpaper)"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_unhope"
+            src="@drawable/btlg_v50"
+            title="Unreleased hope (5.0 Release Wallpaper)"
+            subtitle1="ElDainosor" />
+
+     </category>
+
+     <category id="cat_btlg_themes" title="@string/category_shishufied_walls" featured="btlg_amalgamation">
+
+        <static-wallpaper
+            id="btlg_dreams"
+            src="@drawable/btlg_theme_dreams"
+            title="Shishu Dreams Theme"
+            subtitle1="Snowan" />
+
+        <static-wallpaper
+            id="btlg_illusions"
+            src="@drawable/btlg_theme_illusions"
+            title="Shishu Illusions Theme"
+            subtitle1="𝙉𝙀𝙍𝙊" />
+
+        <static-wallpaper
+            id="btlg_nights"
+            src="@drawable/btlg_theme_nights"
+            title="Shishu Nights Theme"
+            subtitle1="Cortezz" />
+
+        <static-wallpaper
+            id="btlg_amalgamation"
+            src="@drawable/btlg_theme_amalgamation"
+            title="Shishu Amalgamation Theme"
+            subtitle1="Snowan" />
+
+        <static-wallpaper
+            id="btlg_solarized"
+            src="@drawable/btlg_theme_solarized"
+            title="Solarized Theme"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_aosp"
+            src="@drawable/btlg_theme_aosp"
+            title="AOSP Theme"
+            subtitle1="Google, ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_pacleggers"
+            src="@drawable/btlg_theme_pacleggers"
+            title="PACLeggers Aprils Fools"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_pissel"
+            src="@drawable/btlg_theme_pissel"
+            title="Pissel Theme"
+            subtitle1="Google, ElDainosor" />
+
+     </category>
+
+     <category id="cat_btlg_misc" title="@string/category_misc_walls" featured="btlg_oronio">
+
+        <static-wallpaper
+            id="btlg_shishuog"
+            src="@drawable/shishu_origins"
+            title="Shishu Origins"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_oronio"
+            src="@drawable/btlg_oronos_virgilio"
+            title="Virgilio (from Oroño)"
+            subtitle1="ElDainosor" />
+
+     </category>
+
+</resources>
