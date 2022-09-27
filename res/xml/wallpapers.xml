@@ -39,6 +39,12 @@
             subtitle1="MΔTЭO" />
 
         <static-wallpaper
+            id="btlg_gradient_dynamic"
+            src="@drawable/btlg_v69_alt"
+            title="Gradient Dynamic"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
             id="btlg_greenpattern"
             src="@drawable/btlg_greenpattern"
             title="Green Pattern"
