@@ -17,6 +17,9 @@
       <string name="category_community_walls">Community Walls</string>
       <string name="category_shishufied_walls">Shishu Themes</string>
       <string name="category_misc_walls">Misc</string>
+      <string name="category_dainocore_urban_walls">Street Scapes</string>
+      <string name="category_dainocore_nature_walls">A piece of nature</string>
+      <string name="category_dainocore_misc_walls">Interesting things</string>
 
       <!-- Author? -->
       <string name="author_not_found">Unknown author</string>
