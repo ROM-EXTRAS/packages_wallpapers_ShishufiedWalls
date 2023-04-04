@@ -104,6 +104,114 @@
             title="Sunset Lane"
             subtitle1="s a y m o n" />
 
+        <static-wallpaper
+            id="btlg_streetlight"
+            src="@drawable/btlg_streetlights"
+            title="Streetlights"
+            subtitle1="fabian" />
+
+        <static-wallpaper
+            id="btlg_longnight"
+            src="@drawable/btlg_longnight"
+            title="Long Night"
+            subtitle1="Nisath" />
+
+        <static-wallpaper
+            id="btlg_night_drive_burning"
+            src="@drawable/btlg_night_drive_burning"
+            title="Burning Night Drive"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_night_drive_something"
+            src="@drawable/btlg_night_drive_something"
+            title="Something... "
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_monoroad"
+            src="@drawable/btlg_monoroad"
+            title="she loves monochrome"
+            subtitle1="henrique" />
+
+        <static-wallpaper
+            id="btlg_beautynature"
+            src="@drawable/btlg_beautynature"
+            title="Beauty of Nature"
+            subtitle1="Snowan" />
+
+        <static-wallpaper
+            id="btlg_wireframe_waves"
+            src="@drawable/btlg_wireframe_waves"
+            title="Wireframe Wave"
+            subtitle1="Snowan" />
+
+        <static-wallpaper
+            id="btlg_paintbrush"
+            src="@drawable/btlg_paintbrush"
+            title="Paintbrush"
+            subtitle1="Snowan" />
+
+        <static-wallpaper
+            id="btlg_neo_status"
+            src="@drawable/btlg_neo_status"
+            title="Neo Status"
+            subtitle1="Limxdy" />
+
+        <static-wallpaper
+            id="btlg_darkbeauty"
+            src="@drawable/btlg_darkbeauty"
+            title="Darkest Beauty"
+            subtitle1="Snowan" />
+
+        <static-wallpaper
+            id="btlg_sphered_emotions"
+            src="@drawable/btlg_sphered_emotions"
+            title="Sphered Emotions"
+            subtitle1="Snowan" />
+
+        <static-wallpaper
+            id="btlg_sunset_view"
+            src="@drawable/btlg_sunset_view"
+            title="Sunset view from a window"
+            subtitle1="Nisath" />
+
+        <static-wallpaper
+            id="btlg_paperwashed"
+            src="@drawable/btlg_paperwashed"
+            title="Paperwashed"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_minimalwidget"
+            src="@drawable/btlg_minimalwidget"
+            title="Minimal Widget"
+            subtitle1="Limxdy" />
+
+        <static-wallpaper
+            id="btlg_velvet"
+            src="@drawable/btlg_velvet"
+            title="Velvet"
+            subtitle1="Nisath" />
+
+        <static-wallpaper
+            id="btlg_holotronic"
+            src="@drawable/btlg_holotronic"
+            title="Holotronic"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_night_drive_sunset"
+            src="@drawable/btlg_night_drive_sunset"
+            title="Sunset before the night"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_evening_palmtrees"
+            src="@drawable/btlg_evening_palmtrees"
+            title="Evening sky"
+            subtitle1="Limxdy" />
+
      </category>
 
      <category id="cat_btlg_releases" title="@string/category_releases_walls" featured="btlg_dawn">
@@ -858,6 +966,12 @@
             id="dainocore_torreparque_alt"
             src="@drawable/dainocore_urban_torreparque_alt"
             title="Torre Espacial (alt)"
+            subtitle1="ElDainosor" />
+
+        <static-wallpaper
+            id="btlg_tirimbino_amoled"
+            src="@drawable/btlg_alt_tirimbino"
+            title="AMOLED Tirimbino"
             subtitle1="ElDainosor" />
 
      </category>
